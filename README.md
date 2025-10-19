@@ -383,8 +383,8 @@ This project maintains the same license as the original AstroNet project from Go
 
 ## 🔗 References
 
-- [Original AstroNet Project]([https://github.com/google-research/exoplanet-ml/tree/master/exoplanet-ml/astronet](https://github.com/google-research/exoplanet-ml/tree/master/exoplanet-ml/astronet))
-- [Kepler Mission]([https://www.nasa.gov/mission/kepler/](https://archive.stsci.edu/missions-and-data/kepler))
+- [Original AstroNet Project](https://github.com/google-research/exoplanet-ml/tree/master/exoplanet-ml/astronet)
+- [Kepler Mission](https://archive.stsci.edu/missions-and-data/kepler)
 - [TensorFlow 2.x Documentation](https://www.tensorflow.org/)
 
 ---
